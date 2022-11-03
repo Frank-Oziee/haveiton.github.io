@@ -105,6 +105,7 @@ body {
     color: var(--FONT-COLOR);
     min-height: 100vh;
     max-width: 800px;
+    min-width: 350px;
     margin: 0 auto;
     border-left: var(--BORDERS);
     border-right: var(--BORDERS);
